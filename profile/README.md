@@ -12,6 +12,10 @@ under your own brand.
   scale-to-zero, and installs with one command per cluster.
 - **Mulino Train** trains models. It provides a training API for your own fine-tuning and
   reinforcement-learning loops, plus managed fine-tuning and distillation jobs.
+- **Mulino Fleet** optimises the whole GPU fleet. AI agents keep tuning model placement,
+  utilisation and power, and catch failing GPUs before they disrupt work.
+- **Mulino Operate** runs the platform with AI agents. They handle routine operations, diagnostics
+  and incidents. Every change they make is shown and recorded.
 
 ## Who it's for
 
